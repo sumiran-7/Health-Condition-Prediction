@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# CatBoost
+catboost_info/
+
+# Temporary
+*.tmp
+
+artifacts/processed/
+
+# Processed datasets
+artifacts/X_train_processed.csv
+artifacts/X_test_processed.csv
+artifacts/y_train.csv
+artifacts/y_test.csv
