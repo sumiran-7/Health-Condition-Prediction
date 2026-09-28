@@ -35,3 +35,7 @@ artifacts/X_train_processed.csv
 artifacts/X_test_processed.csv
 artifacts/y_train.csv
 artifacts/y_test.csv
+# Large raw datasets
+data/raw/train.csv
+data/raw/test.csv
+data/raw/sample_submission.csv
